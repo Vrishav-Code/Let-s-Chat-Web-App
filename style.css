@@ -1,0 +1,19 @@
+h1 {
+font-size: 100;
+font-weight: bolder;
+color: aquamarine;
+}
+#username {
+   width: 1000px; 
+   height: 50px;
+}
+body {
+    background-image: url("https://www.sagatraining.ca/wp-content/uploads/2018/10/background-images-for-login-form-8-300x122.jpg");
+    background-size: cover;
+}
+#adduser {
+    color: blue;
+    font-style: oblique;
+    font-size: 30px;
+    background-color: green;
+}
